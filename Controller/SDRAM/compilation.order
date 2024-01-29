@@ -1,0 +1,8 @@
+.\src\sdram_pack.vhd
+.\src\utils.vhd
+.\src\random.vhd
+.\src\fsm.vhd
+.\src\sdram_ctrl.vhd
+.\src\sdram_ctrl_tester.vhd
+.\src\mt48lc4m32b2.v
+.\src\sdram_ctrl_tb.vhd

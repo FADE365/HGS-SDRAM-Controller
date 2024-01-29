@@ -1,0 +1,110 @@
+timestamp=1706545745909
+
+[$root]
+A/$root=22|""|0|1*50846
+B/$root=3*85820
+C=8.2.1986.3485  (Windows)
+
+[fsm]
+A/fsm=21|./src/fsm.vhd|36|1*33472
+B/fsm=3*62090
+C=8.2.1986.3485  (Windows)
+C/fsm=8.2.1986.3485  (Windows)
+I=0*34448
+I/fsm=0*39272
+M=11|0|v63|1706545730164|./src/fsm.vhd|0*33802*0x9fb0407f132c18a85eb0f8933537b03f282a9adb|0*34384*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+M/fsm=21|0|v63|1706545730166|./src/fsm.vhd|0*34664*0xb7088ffdf6eadd8e7ad06fc3b09ddfd8aef32f89|0*39201*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+R=./src/fsm.vhd|16
+
+[mt48lc4m32b2]
+A/mt48lc4m32b2=22|./src/mt48lc4m32b2.v|42|1*51236
+B/mt48lc4m32b2=3*85968
+C=8.2.1986.3485  (Windows)
+D/mt48lc4m32b2=4*0
+P/~emb=776,2830,4956,6074
+R=./src/mt48lc4m32b2.v|42
+
+[random]
+A/rtl=21|./src/random.vhd|22|1*0
+B/rtl=3*0
+C=8.2.1986.3485  (Windows)
+C/rtl=8.2.1986.3485  (Windows)
+I=0*9128
+I/rtl=0*11506
+M=11|0|v63|1706545729976|./src/random.vhd|0*8785*0xdd9ac79e8c50762c21896d0728cf89fb9648bed1|0*9058*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+M/rtl=21|0|v63|1706545729978|./src/random.vhd|0*9290*0x9d00d8ca6e7783141d67ade2fb27cbd45949fd71|0*11429*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+R=./src/random.vhd|15
+
+[sdram_ctrl]
+A/struct=21|./src/sdram_ctrl.vhd|42|1*39458
+B/struct=3*71029
+C=8.2.1986.3485  (Windows)
+C/struct=8.2.1986.3485  (Windows)
+I=0*19978
+I/struct=0*39492
+M=11|0|v63|1706545730086|./src/sdram_ctrl.vhd|0*19087*0x604c2772a1c4200d08f175e47b2f4998cee197a6|0*19900*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+M/struct=21|0|v63|1706545730325|./src/sdram_ctrl.vhd|0*20201*0xafbd4cb3650f68b57db6f6eb1e3b412ee22c468e|0*23823*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+R=./src/sdram_ctrl.vhd|17
+
+[sdram_ctrl_tb]
+A/struct=21|./src/sdram_ctrl_tb.vhd|17|1*72320
+B/struct=3*242086
+C=8.2.1986.3485  (Windows)
+C/struct=8.2.1986.3485  (Windows)
+I=0*62551
+I/struct=0*66574
+M=11|0|v63|1706545745769|./src/sdram_ctrl_tb.vhd|0*62274*0x0e18e6dbe6036ee7e0430a8a4b60fe6432049754|0*62467*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+M/struct=21|0|v63|1706545745771|./src/sdram_ctrl_tb.vhd|0*62720*0x270ed6dae00919dd8e91b4da6f3826984cf23c24|0*66480*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+R=./src/sdram_ctrl_tb.vhd|14
+
+[sdram_ctrl_tester]
+A/behav=21|./src/sdram_ctrl_tester.vhd|42|1*24387
+B/behav=3*36020
+C=8.2.1986.3485  (Windows)
+C/behav=8.2.1986.3485  (Windows)
+I=0*25155
+I/behav=0*32870
+M=11|0|v63|1706545730117|./src/sdram_ctrl_tester.vhd|0*24427*0x6397506daf285490290692c1bc4831d942388246|0*25063*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+M/behav=21|0|v63|1706545730119|./src/sdram_ctrl_tester.vhd|0*25544*0x0f6d04feb94310d8aebc355b41711aec324cc1df|0*32769*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+R=./src/sdram_ctrl_tester.vhd|25
+
+[sdram_pack]
+C=8.2.1986.3485  (Windows)
+E=1*4793
+I=0*13498
+M=3|0|v63|1706545730039|./src/sdram_pack.vhd|0*12211*0x9eb2416c3f920fef16e44c4a0d6d5eaea1f2f997|0*13420*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+R=./src/sdram_pack.vhd|14
+
+[utils]
+B/utils=3*8715
+C=8.2.1986.3485  (Windows)
+E=1*8868
+I=0*14480
+I/utils=0*18222
+M=3|0|v63|1706545730042|./src/utils.vhd|0*14030*0x237babc4031dd3c49825d9133264bdbde41504d7|0*14412*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+M/utils=4|0|v63|1706545730045|./src/utils.vhd|0*14648*0xf2cd05084e8e7aa494b794e9c81d06119742650f|0*18146*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+R=./src/utils.vhd|12
+
+[~A]
+D:/NEW_2023-2024/HGS-SDRAM-Controller/Controller/SDRAM/src/mt48lc4m32b2.v=0*53601*61667
+LastVerilogToplevel=mt48lc4m32b2
+ModifyID=184
+Version=73
+
+[~MFT]
+0=56|0SDRAM.mgf|66574|8654
+1=10|1SDRAM.mgf|72320|11801
+3=9|3SDRAM.mgf|242086|14791
+4=0|4SDRAM.mgf|0|0
+
+[~U]
+$root=12|0*39772|
+fsm=11|0*33318|
+mt48lc4m32b2=12|0*39938||0x90
+random=11|0*8588|
+sdram_ctrl=11|0*18396|
+sdram_ctrl_tb=11|0*62189|
+sdram_ctrl_tester=11|0*23977|
+sdram_pack=3|0*11672|0*11748
+utils=3|0*13664|0*13725
+

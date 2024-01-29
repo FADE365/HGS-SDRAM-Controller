@@ -1,0 +1,1 @@
+-w -s "D:\NEW_2023-2024\HGS-SDRAM-Controller\Controller\library.cfg"  -j "D:\NEW_2023-2024\HGS-SDRAM-Controller\Controller\SDRAM\projlib.cfg"  -d "D:\NEW_2023-2024\HGS-SDRAM-Controller\Controller\SDRAM\compile"   -work SDRAM  -O3 -e 100 -o -2002 "D:\NEW_2023-2024\HGS-SDRAM-Controller\Controller\SDRAM\src\sdram_ctrl_tb.vhd" 

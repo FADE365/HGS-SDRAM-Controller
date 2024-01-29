@@ -1,0 +1,32 @@
+elbread.dll ver. 1.0.5.375 Mon Jan 29 19:31:27 2024
+
+
+---------------------------------------------
+Entity             | Architecture | Library
+---------------------------------------------
+sdram_ctrl_tb      | struct       | SDRAM
+sdram_ctrl         | struct       | sdram
+sdram_ctrl_tester  | behav        | sdram
+fsm                | fsm          | sdram
+random             | rtl          | sdram
+-------------------------------------------
+
+-------------------------
+Module        | Library
+-------------------------
+mt48lc4m32b2  | sdram
+-----------------------
+
+-------------------------------
+Package             | Library
+-------------------------------
+standard            | std
+TEXTIO              | std
+std_logic_1164      | ieee
+NUMERIC_STD         | ieee
+std_logic_arith     | ieee
+sdram_pack          | sdram
+ENV                 | std
+STD_LOGIC_UNSIGNED  | ieee
+utils               | sdram
+-----------------------------

@@ -1,0 +1,62 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=2
+Current Config=compile
+
+[Configurations]
+compile=SDRAM
+
+[Library]
+SDRAM=.\SDRAM.LIB
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+EnableCC=0
+EnableEXC=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+EnableExpressionCoverage=0
+
+[LocalVhdlSets]
+EnableExpressionCoverage=0
+CompileWithDebug=0
+
+[$LibMap$]
+SDRAM=.
+Active_lib=
+
+[Files]
+/sdram_pack.vhd=-1
+/utils.vhd=-1
+/random.vhd=-1
+/fsm.vhd=-1
+/sdram_ctrl.vhd=-1
+/sdram_ctrl_tester.vhd=-1
+/mt48lc4m32b2.v=-1
+/sdram_ctrl_tb.vhd=-1
+
+[Files.Data]
+.\src\sdram_pack.vhd=VHDL Source Code
+.\src\utils.vhd=VHDL Source Code
+.\src\random.vhd=VHDL Source Code
+.\src\fsm.vhd=VHDL Source Code
+.\src\sdram_ctrl.vhd=VHDL Source Code
+.\src\sdram_ctrl_tester.vhd=VHDL Source Code
+.\src\mt48lc4m32b2.v=Verilog Source Code
+.\src\sdram_ctrl_tb.vhd=VHDL Source Code
+

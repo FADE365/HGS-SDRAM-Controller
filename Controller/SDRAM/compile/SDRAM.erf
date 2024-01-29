@@ -1,0 +1,7 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and code coverage will not be available." 
+MESSAGE "File: D:\NEW_2023-2024\HGS-SDRAM-Controller\Controller\SDRAM\src\sdram_ctrl_tb.vhd" 
+MESSAGE "Compile Entity "sdram_ctrl_tb"" 
+MESSAGE "Compile Architecture "struct" of Entity "sdram_ctrl_tb"" 
+MESSAGE "Top-level unit(s) detected:" 
+MESSAGE "Entity => sdram_ctrl_tb" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 

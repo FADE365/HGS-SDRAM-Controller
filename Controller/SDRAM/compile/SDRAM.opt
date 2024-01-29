@@ -1,0 +1,1 @@
+ -u "C:\Program Files (x86)\Aldec\Active-HDL 8.2\bin/systf.dll" -v20  "D:\NEW_2023-2024\HGS-SDRAM-Controller\Controller\SDRAM\src\mt48lc4m32b2.v"  -cs  -g 5  -r -li "D:\NEW_2023-2024\HGS-SDRAM-Controller\Controller\SDRAM\compile\SDRAM.epr" -p "D:\NEW_2023-2024\HGS-SDRAM-Controller\Controller\SDRAM" 

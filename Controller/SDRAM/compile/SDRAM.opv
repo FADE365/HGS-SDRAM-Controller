@@ -1,0 +1,1 @@
+ -erf "D:\NEW_2023-2024\HGS-SDRAM-Controller\Controller\SDRAM\compile\SDRAM.erf" -work SDRAM -lc D:/NEW_2023-2024/HGS-SDRAM-Controller/Controller/library.cfg -fl D:/NEW_2023-2024/HGS-SDRAM-Controller/Controller/SDRAM/projlib.cfg -o D:/NEW_2023-2024/HGS-SDRAM-Controller/Controller/SDRAM/compile -l "SDRAM"

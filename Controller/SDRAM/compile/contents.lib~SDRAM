@@ -1,0 +1,15 @@
+184
+~E 1 "./src/random.vhd" 15 random
+~A 1 "./src/random.vhd" 22 rtl
+~E 1 "./src/fsm.vhd" 16 fsm
+~A 1 "./src/fsm.vhd" 36 fsm
+~M 0 "" 0 $root
+~A 1 "" 0 $root
+~M 3 "./src/mt48lc4m32b2.v" 42 mt48lc4m32b2
+~A 1 "./src/mt48lc4m32b2.v" 42 mt48lc4m32b2
+~E 1 "./src/sdram_ctrl_tb.vhd" 14 sdram_ctrl_tb
+~A 1 "./src/sdram_ctrl_tb.vhd" 17 struct
+~E 1 "./src/sdram_ctrl.vhd" 17 sdram_ctrl
+~A 1 "./src/sdram_ctrl.vhd" 42 struct
+~E 1 "./src/sdram_ctrl_tester.vhd" 25 sdram_ctrl_tester
+~A 1 "./src/sdram_ctrl_tester.vhd" 42 behav
